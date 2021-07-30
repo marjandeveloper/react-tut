@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/marjandeveloper/react-tut/issues"
   },
-  "homepage": "https://github.com/marjandeveloper/react-tut#readme"
+  "homepage": "https://github.com/marjandeveloper/react-tut#readme",
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  }
 }
