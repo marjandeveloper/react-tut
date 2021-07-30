@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "<h1>This is the React tutorial</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marjandeveloper/react-tut.git"
+  },
+  "author": "Marjan Nikolic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marjandeveloper/react-tut/issues"
+  },
+  "homepage": "https://github.com/marjandeveloper/react-tut#readme"
+}
