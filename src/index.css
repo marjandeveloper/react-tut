@@ -49,6 +49,6 @@ body {
     grid-template-columns: repeat(1, 1fr);
   }
   .book img {
-    max-block-size: 17rem;
+    max-block-size: 16rem;
   }
 }
